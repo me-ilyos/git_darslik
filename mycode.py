@@ -1,0 +1,1 @@
+print("Versiya 1")
